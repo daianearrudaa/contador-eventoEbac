@@ -1,8 +1,6 @@
 # Ebac Tech Talks
 
-## Visão Geral
-
-Este é o código HTML para a página do Ebac Tech Talks, um evento de tecnologia. A página inclui informações sobre o evento, detalhes de cada área temática e utiliza animações AOS (Animate On Scroll).
+Página do Ebac Tech Talks, um evento de tecnologia. A página inclui informações sobre o evento, detalhes de cada área temática e utiliza animações AOS (Animate On Scroll).
 
 ## Estrutura do Código
 
